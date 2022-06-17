@@ -1,0 +1,35 @@
+id: IFC2C94EF
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:10:12.044138'
+last_modified: '2022-06-17T11:10:12.044165'
+parser: null
+source_metadata:
+  title: Benefits Series
+  language: en
+  description: 'Texts on the benefits (phan yon) to be derived from different forms
+    of practice or virtuous activity:'
+  volume:
+    f5E29:
+      title: The Benefits of Saving Lives
+      base_file: f5E29.txt
+      order: 1
+      parent: Saving Lives
+    f4F19:
+      title: The Concise Benefits of the Festival of the Tenth Day
+      base_file: f4F19.txt
+      order: 2
+      parent: Tenth Day Practice
+    f84FA:
+      title: The Benefits of the Vajra Guru Mantra and an Explanation of Its Syllables
+      base_file: f84FA.txt
+      order: 3
+      parent: Vajra Guru Mantra
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
